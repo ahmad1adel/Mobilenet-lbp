@@ -146,7 +146,7 @@ python train.py --train_dir data/train
 ### Step 1: Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/face-recognition-system.git
+git clone https://github.com/ahmad1adel/face-recognition-system.git
 cd face-recognition-system
 ```
 
