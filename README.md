@@ -552,7 +552,8 @@ All performance metrics tracked across 20 epochs showing **loss reduction** and 
 
 | Unmasked | Masked | Both |
 |----------|--------|------|
-| ![Unmasked](acc&loss/mobilenet_lbp_unmasked_performance.png) | ![Masked](acc&loss/mobilenet_lbp_masked_performance.png) | ![Both](acc&loss/mobilenet_lbp_both_performance.png) |
+| ![Unmasked](Accuracy and Loss for Proposed dataset
+/mobilenet_lbp_unmasked_performance.png) | ![Masked](Accuracy and Loss for Proposed dataset/mobilenet_lbp_masked_performance.png) | ![Both](Accuracy and Loss for Proposed dataset/mobilenet_lbp_both_performance.png) |
 
 </div>
 
@@ -566,7 +567,7 @@ Performance metrics from RMRFD cross-dataset validation showing training progres
 
 | Unmasked | Masked | Both |
 |----------|--------|------|
-| ![Unmasked](new_acc&loss/mobilenet_lbp_unmasked_performance.png) | ![Masked](new_acc&loss/mobilenet_lbp_masked_performance.png) | ![Both](new_acc&loss/mobilenet_lbp_both_performance.png) |
+| ![Unmasked](Accuracy and Loss for RMRFD dataset/mobilenet_lbp_unmasked_performance.png) | ![Masked](Accuracy and Loss for RMRFD dataset/mobilenet_lbp_masked_performance.png) | ![Both](Accuracy and Loss for RMRFD dataset/mobilenet_lbp_both_performance.png) |
 
 </div>
 
