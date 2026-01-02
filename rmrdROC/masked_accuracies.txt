@@ -1,0 +1,6 @@
+Masked Model Accuracy Summary
+==============================
+facenet_gabor_masked: 0.8924
+facenet_masked_lbp: 0.9863
+mobilenet_gabor_masked: 0.7924
+mobilenet_lbp_masked: 0.8745
